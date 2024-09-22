@@ -20,5 +20,7 @@ Stakeholder Impact: The interactive dashboards, created with Plotly, empower tra
 ## Tools & Technologies
 
 Pandas & NumPy: For data cleaning, manipulation, and exploration of accident records.
+
 Matplotlib & Seaborn: To create static visualizations for quick insight into accident patterns.
+
 Plotly: For developing interactive dashboards, enabling stakeholders to explore data and derive insights in real time.
