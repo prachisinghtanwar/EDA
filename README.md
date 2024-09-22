@@ -7,8 +7,11 @@ This project explores a comprehensive dataset of over 2.8 million accident recor
 ## Project Goals
 
 Uncover Accident Trends: Analyze the relationships between weather, location, time, and severity in regards to accidents to find key patterns.
+
 Identify Risk Factors: Determine high-risk areas and times, enabling targeted interventions to reduce accidents.
+
 Visualize Key Insights: Use interactive visualizations to make complex data accessible and actionable for stakeholders.
+
 Drive Safety Improvements: Provide insights that help policymakers and traffic managers implement effective safety measures.
 
 ## Key Findings
